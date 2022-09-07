@@ -53,6 +53,16 @@ hr{
     padding-top: 100px;
 }
 
+/* Adding media queries for small size screen */
+@media screen and (max-width:500px) {
+    .top-container{
+        width: 125%;
+    }
+    .bottom-container{
+        width: 125%;
+    }
+}
+
 .middle-container {
    margin: 100px 0;
 }
