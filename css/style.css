@@ -54,7 +54,7 @@ hr{
 }
 
 /* Adding media queries for small size screen */
-@media screen and (max-width:500px) {
+@media screen and(max-width:500px){
     .top-container{
         width: 125%;
     }
